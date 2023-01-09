@@ -27,7 +27,7 @@
     "dot-prop": "^5.2.0",
     "electron-store": "^5.1.0",
     "electron-updater": "^4.2.0",
-    "luxon": "^1.21.3",
+    "luxon": "^1.28.1",
     "node-window-manager": "^2.0.1",
     "robotjs": "^0.6.0",
     "tailwindcss": "^1.1.4",
